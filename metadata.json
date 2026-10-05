@@ -1,0 +1,6 @@
+{
+  "name": "Customer Intelligence",
+  "description": "Customer Intelligence platform for product and marketing teams to discover verified review insights and evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
